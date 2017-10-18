@@ -1,0 +1,16 @@
+{
+  "name": "cms",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "echo 'use apache instead' && exit 1"
+  },
+  "dependencies": {
+    "express": "~4.15.2",
+    "node-fastcgi": "",
+    "mysql2": "",
+    "express-session": "",
+    "express-vue": "",
+    "express-mysql-session": ""
+  }
+}
